@@ -1,11 +1,6 @@
-<!-- Header -->
+<!-- Profile Views -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b26,292e42,7aa2f7&height=220&section=header&text=Pankaj%20Sain&fontSize=60&fontColor=c0caf5&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future%20with%20Code&descSize=22&descAlignY=62&descColor=7aa2f7" width="100%"/>
-</div>
-
-<!-- Profile Views (Moved Up) -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Xanoster&label=PROFILE%20VIEWS&color=292e42&style=for-the-badge&labelColor=1a1b26" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Xanoster&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge&labelColor=1a1b26" alt="profile views" />
 </div>
 
 <br/>
