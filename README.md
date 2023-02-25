@@ -20,19 +20,12 @@
 
 <br/>
 
-<!-- Stats Section -->
-<div align="center">
-  <a href="https://github.com/Xanoster">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanoster&layout=compact&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&langs_count=6" height="160" alt="languages" />
-  </a>
-</div>
 
-<br/>
 
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Technologies</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,linux,java,python,js,react,postgres,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,java,python,js,react,postgres&theme=dark" />
 </div>
 
 <br/>
