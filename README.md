@@ -1,11 +1,11 @@
 <!-- Top Title Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=50&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=FULL+STACK+ENGINEER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=3000&pause=1000&color=FE34B9&center=true&vCenter=true&width=800&lines=FULL+STACK+ENGINEER" />
 </div>
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xanoster&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge&labelColor=1a1b26" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Xanoster&label=PROFILE%20VIEWS&color=fe34b9&style=for-the-badge&labelColor=2a0a2e" alt="profile views" />
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 <!-- Stats Section -->
 <div align="center">
   <a href="https://github.com/Xanoster">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanoster&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanoster&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages" />
   </a>
 </div>
 
