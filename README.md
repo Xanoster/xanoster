@@ -15,11 +15,6 @@
 <!-- Bio -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E30505&center=true&vCenter=true&width=600&lines=Building+Cloud+Native+Solutions;Mastering+JavaScript+Ecosystem;Integrating+Artificial+Intelligence" />
-  <br/>
-  <p style="font-size: 16px;">
-    I engineer robust <b>Web Applications</b> and scalable <b>Cloud Infrastructure</b> with a focus on performance.<br/>
-    Specializing in <b>JavaScript</b>, <b>Cloud Computing</b>, and <b>AI-Driven Solutions</b>.
-  </p>
 </div>
 
 <br/>
