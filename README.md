@@ -1,6 +1,6 @@
 <!-- Top Title Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Shojumaru&weight=400&size=55&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=FULL+STACK+ENGINEER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Shojumaru&weight=400&size=55&duration=3000&pause=10000&color=FF0000&center=true&vCenter=true&width=800&lines=FULL+STACK+ENGINEER" />
 </div>
 
 <br/>
