@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,aws,git" height="60"/>
 </p>
+
 <h2 align="center">Contributions</h2>
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Xanoster/Xanoster/main/contributions.json" />
