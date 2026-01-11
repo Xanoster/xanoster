@@ -23,8 +23,5 @@
 
 <h2 align="center">Contributions</h2>
 <p align="center">
-  <img 
-    src="https://github-contributions-api.jogruber.de/v4/Xanoster?y=2025" 
-    width="800"
-  />
+  <img src="https://ghchart.rshah.org/Xanoster" alt="GitHub Contributions" />
 </p>
