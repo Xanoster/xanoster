@@ -1,5 +1,3 @@
-<h2 align="center">Hi, I'm Pankaj</h2>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xanoster&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
