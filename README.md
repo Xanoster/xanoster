@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20Warrior&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Enter%20the%20Code%20Dojo%20⚔️&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20Warrior&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Logic%20Meets%20Legend%20⚔️&descSize=20&descAlignY=55" width="100%"/>
 </p>
 
 <!-- Profile Views with Sword Icon -->
@@ -11,7 +11,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=⚔️+Software+Engineer+⚔️;☄️+Mastering+Java+%7C+JavaScript+%7C+Python+☄️;🔥+AWS+Cloud+Warrior+🔥;⚡+DevOps+%7C+Git+Master+⚡;💀+Coding+the+Impossible+💀;🌟+Building+Legendary+Systems+🌟" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=⚔️+Software+Engineer+⚔️;☄️+Full+Stack+Developer+☄️;🔥+AWS+Cloud+Warrior+🔥;⚡+Blockchain+Architect+⚡;💀+Smart+Contract+Sorcerer+💀;🌟+Building+Legendary+Systems+🌟" />
 </p>
 
 <!-- Epic Divider -->
@@ -27,7 +27,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=A+warrior+who+codes+by+moonlight;Battling+bugs+with+legendary+skill;Forging+solutions+from+pure+logic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=A+warrior+who+codes+by+moonlight;Battling+bugs+with+legendary+skill;Forging+solutions+from+pure+logic;Deploying+smart+contracts+on+the+blockchain" />
 </p>
 
 <!-- Tech Stack with Cool Icons -->
@@ -36,16 +36,28 @@
   Arsenal of Technologies
 </h2>
 
+<h3 align="center">⚔️ Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,spring,express,flask&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs&theme=dark&perline=8" />
 </p>
 
+<h3 align="center">🔱 Blockchain & Web3</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,jenkins,terraform,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart_Contracts-Expert-FF0000?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Web3-Developer-FF0000?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0d0d0d" />
 </p>
 
+<h3 align="center">☁️ Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,html,css,tailwind,bootstrap&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark&perline=8" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark&perline=8" />
 </p>
 
 <!-- Sword Divider -->
@@ -68,12 +80,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pankajsain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Send_A_Message-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow_The_Journey-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d" />
   </a>
 </p>
 
